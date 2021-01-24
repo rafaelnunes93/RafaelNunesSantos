@@ -3,10 +3,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Rafael nunes">
 
 <p align="left"> 
-
+ Hey! Welcome to my profile! How is it going?
+ 
+ Hey! Bienvenue sur mon profil! Comment ça se passe?
 </p>
 
-<a href="mailto:rafaelnunes_93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/rafaelnunesdossantos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://github.com/rafaelnunes93"><img src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:rafaelnunes_93@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://www.linkedin.com/in/rafaelnunesdossantos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="https://github.com/rafaelnunes93"><img src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <h3>:nail_care: Minhas Skills:</h3> 
 
