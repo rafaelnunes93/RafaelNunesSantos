@@ -1,6 +1,10 @@
 <h1>Olá, sou a Rafael!</h1>
 
-<p>  </p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Rafael nunes">
+
+<p align="left"> 
+
+</p>
 
 <a href="mailto:rafaelnunes_93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/rafaelnunesdossantos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://github.com/rafaelnunes93"><img src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
