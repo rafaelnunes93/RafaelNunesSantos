@@ -5,7 +5,7 @@
 <p align="left"> 
  Hey! Welcome to my profile! How is it going?
  
- Hey! Bienvenue sur mon profil! Comment ça se passe?
+ Salut! Bienvenue sur mon profil! Comment ça se passe?
 </p>
 
 <a href="mailto:rafaelnunes_93@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://www.linkedin.com/in/rafaelnunesdossantos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="https://github.com/rafaelnunes93"><img src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -16,7 +16,8 @@
  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS3-3498DB?style=for-the-badge&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Bootstrap-7D3C98?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </code>
@@ -44,7 +45,7 @@
 
 <h3> :file_folder: Sobre meu GitHub:</h3>
 
-[![lilitbandeira](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnunes93&hide=html&layout=compact&theme=tokyonight)](https://github.com/rafaelnunes93/)
+[![rafaelnunes93](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnunes93&hide=html&layout=compact&theme=tokyonight)](https://github.com/rafaelnunes93/)
 
 [![card](https://github-readme-stats.vercel.app/api?username=rafaelnunes93&theme=tokyonight)](https://github.com/rafaelnunes93/)
 
