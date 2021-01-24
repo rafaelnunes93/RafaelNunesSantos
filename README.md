@@ -1,4 +1,6 @@
 <h1>Olá, sou a Rafael!</h1>
+<h1>Hello, I am Rafael!</h1>
+<h1>Olá, Je suis!</h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Rafael nunes">
 
@@ -50,6 +52,7 @@
 [![card](https://github-readme-stats.vercel.app/api?username=rafaelnunes93&theme=tokyonight)](https://github.com/rafaelnunes93/)
 
 <h6>Até Breve! :wink:</h6>
-
+<h6>See you soon! :wink:</h6>
+<h6>À bientôt! :wink:</h6>
 
 
