@@ -4,8 +4,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Rafael nunes">
 
 <p align="left"> 
-Welcome to my profile! How is it going?  Bienvenue sur mon profil! Comment ça se passe?
- 
+Sou amante de Jazz, Blues e Rock Classico. Estou no inicio de minha trajetoria como desenvolvedor.
+sou apaixonado pelo mundo da tecnologia e por este motivo estudo todos os dias para aprimorar meus
+conhecimentos e realizar o sonho de me tornar um desenvolvedor full-stack
 
 </p>
 
